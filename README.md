@@ -74,7 +74,7 @@ The Content Ideas Generator helps you turn a description of your experience into
 
 ## 👥 Team
 
-Project by Krisha Goti and team  
+Project by Maitrri Chandra and team  
 Built during the **Anthropic x USC Claude Hackathon**
 
 
